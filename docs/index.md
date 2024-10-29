@@ -5,9 +5,9 @@ layout: home
 hero:
   name: "Giteer For Gitee（码云）"
   text: "国内开发者必备"
-  tagline: 
+  tagline:
   image:
-    src: https://giteer.app.xiaobingkj.com/giteer_snapshot.png 
+    src: https://giteer.app.xiaobingkj.com/giteer_snapshot.png
   actions:
     - theme: brand
       text: AppStore
@@ -15,6 +15,12 @@ hero:
     - theme: alt
       text: 常见问题
       link: /faq
+    - theme: alt
+      text: 服务协议
+      link: /service
+    - theme: alt
+      text: 隐私协议
+      link: /privacy
 
 features:
   - icon: 🕛
@@ -36,4 +42,3 @@ features:
     title: 私信推送
     details: 对方通过客户端给你私信
 ---
-
