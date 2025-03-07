@@ -13,6 +13,9 @@ hero:
       text: AppStore
       link: https://apps.apple.com/app/id1579612767
     - theme: brand
+      text: Android
+      link: https://github.com/xiaobingtech/sora-editor
+    - theme: brand
       text: 鸿蒙商店
       link: https://appgallery.huawei.com/detail?id=com.xiaobingkj.giteer
     - theme: alt
