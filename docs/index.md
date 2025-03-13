@@ -14,10 +14,10 @@ hero:
       link: https://apps.apple.com/app/id1579612767
     - theme: brand
       text: Android
-      link: https://github.com/xiaobingtech/sora-editor
+      link: https://github.com/xiaobingtech/Giteer-Android
     - theme: brand
       text: 鸿蒙商店
-      link: https://appgallery.huawei.com/detail?id=com.xiaobingkj.giteer
+      link: https://appgallery.huawei.com/app/detail?id=com.xiaobingkj.giteer&channelId=SHARE
     - theme: alt
       text: 常见问题
       link: /faq
